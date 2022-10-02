@@ -85,7 +85,7 @@ Left|Right
 
 - Only 5% of the bookings are happenning offline. More than 40% of bookings is happenning via 'Others' platform, followed by MakeYourTrip which accounts for almost 20% of the bookings.
 
-The company should look into this 'Others' Platform and inspect what it consists of to plan its marketing srategies better. This can help the company regain its lost market share.
+The company should look into this 'Others' Platform and inspect what it consists of to plan its marketing strategies better. This can help the company regain its lost market share.
 
 
 ![Insight 7](https://user-images.githubusercontent.com/96012488/193408984-09ae3196-03c4-4ca5-986c-57c74a452479.png)
