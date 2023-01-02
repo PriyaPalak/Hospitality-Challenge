@@ -1,4 +1,4 @@
-# :hotel:  CodeBasics Hospitality Challenge
+# :hotel:  Atliq Hotels Dashboard Challenge 
 
 ## :muscle:   About the Challenge
 
